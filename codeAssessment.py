@@ -1,6 +1,5 @@
 from collections import Counter
 import math
-from collections import Counter
 
 
 def is_magical_potion(power: int) -> str:
